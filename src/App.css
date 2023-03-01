@@ -1,0 +1,20 @@
+form {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: black;
+}
+input{
+  padding: 10px;
+}
+label{
+  width: 173px;
+  margin-top: 5px;
+  padding: 10px;
+  background: #023047;
+  color: #fff;
+}
